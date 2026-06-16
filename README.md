@@ -18,12 +18,10 @@
 <br />
 
 <ul>
-  <li>
-    ✉️ Você pode entrar em contato comigo pelo e-mail <a href="mailto:[Seu Email]">gttome6@gmail.com</a>
-  </li>
+✉️ Você pode entrar em contato comigo pelo e-mail <a href="mailto:gttome6@gmail.com">gttome6@gmail.com</a>
 </ul>
 
-<h2>Análise de Perfil</h2>
+<h2>Status</h2>
 <p align="center">
       <a href="https://github.com/GabrielTME">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTME&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
