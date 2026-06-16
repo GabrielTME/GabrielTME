@@ -17,9 +17,7 @@
 </div>
 <br />
 
-<ul>
-✉️ Você pode entrar em contato comigo pelo e-mail <a href="mailto:gttome6@gmail.com">gttome6@gmail.com</a>
-</ul>
+<p>✉️ Você pode entrar em contato comigo pelo e-mail <a href="mailto:gttome6@gmail.com">gttome6@gmail.com</a></p>
 
 <h2>Status</h2>
 <p align="center">
