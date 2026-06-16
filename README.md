@@ -25,7 +25,7 @@
 
 <h2>Análise de Perfil</h2>
 <p align="center">
-      <a href="https://github.com/[Seu Username do GitHub]">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Seu Username do GitHub]&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
+      <a href="https://github.com/GabrielTME">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTME&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
     </a>
 </p>
